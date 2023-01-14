@@ -17,8 +17,8 @@ Hey there, I'm Joshua Donahue
 
 
 <div align="center">
-    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
-    <img src="https://media.giphy.com/media/Z87vpf3FhuNE50Nhrh/giphy.gif" width="300"/>
+    <img src="https://media.giphy.com/media/Z87vpf3FhuNE50Nhrh/giphy.gif" width="300" height="300"/>
+    <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" height="300"/>
 </div>
 
 
