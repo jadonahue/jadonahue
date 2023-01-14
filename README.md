@@ -19,6 +19,10 @@ Hey there, I'm Joshua Donahue
     <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 </div>
 
+<div align="left">
+    <img src="https://media.giphy.com/media/Z87vpf3FhuNE50Nhrh/giphy.gif" width="300"/>
+</div>
+
 - 🌱 I’m currently learning **Python, JavaScript, HTML, CSS**
 
 <p align="left">
