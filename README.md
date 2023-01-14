@@ -1,6 +1,6 @@
 <div id="header" align="center">
-<div id="badges">
     <img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="100"/>
+<div id="badges">
     <a href="https://www.linkedin.com/in/joshua-donahue-221729139/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
