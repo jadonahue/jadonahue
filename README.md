@@ -27,7 +27,7 @@ Hey there, I'm Joshua Donahue
 
 <h3 align="left">:man_technologist: About Me:</h3>
 
-- 🌱 I’m currently learning **Python, JavaScript, HTML, CSS**
+- I'm a PROgrammer who enjoys web, app, and game development.
 
 <p align="left">
 </p>
